@@ -1,4 +1,4 @@
-#Poketeam with a Pokedream
+# Poketeam with a Pokedream
 
 This is a website me and three other people developed at KTH from scratch using _JavaScript_ and _React_.
 
